@@ -1,0 +1,59 @@
+🔗 ДЖЕРЕЛА ТА МЕЖІ ПЕРЕВІРКИ
+Дата роботи: 13.09.2026.
+
+1. Основне джерело змісту
+Oxford_Phonics_World_1_SB.pdf — локальний файл у корені репозиторію.
+Oxford Phonics World 1, The Alphabet. На титулі: Kaj Schwermer,
+Julia Chang, Craig Wright; Oxford University Press.
+107 сторінок PDF. Переглянуто зміст, навчальні розвороти, повторення,
+картки й сертифікат. Навчальні сторінки книги 4–103 відповідають PDF 5–104.
+Матеріал — скан; звичайне текстове витягування не дає тексту.
+Жодних аудіофайлів у вихідному репозиторії не було.
+
+2. Вимова й злиття — довідкові матеріали Oxford Owl
+https://home.oxfordowl.co.uk/phonics-videos/
+https://home.oxfordowl.co.uk/reading/what-is-letters-and-sounds/
+Ці матеріали допомагають учителю розрізняти звуки й назви букв та
+моделювати злиття. Наш маршрут лишається маршрутом Oxford Phonics World 1;
+не називаємо його офіційною програмою Letters and Sounds чи RWI.
+
+3. Презентації та експорт
+https://support.google.com/notebooklm/answer/16757456?hl=en
+Офіційна довідка Google описує Presenter Slides, налаштування,
+Revise й завантаження PPTX/PDF. Перевірено довідку, не виконання
+у вашому обліковому записі. Самі презентації цим пакетом не генерувалися.
+Підтримка TXT/PDF та вибір джерел: https://support.google.com/notebooklm/answer/16215270?hl=en
+
+4. Руханки
+Walking Walking | featuring Noodle & Pals
+https://www.youtube.com/watch?v=fPMjnlTEZwU
+https://supersimple.com/song/walking-walking/
+
+Follow Me
+https://www.youtube.com/watch?v=hW2DDGX7Tcc
+https://supersimple.com/song/follow-me/
+
+Open Shut Them | featuring Noodle & Pals
+https://www.youtube.com/watch?v=hXxHonmYz6c
+https://supersimple.com/song/open-shut-them-featuring-noodle-and-pals/
+
+Walking In The Jungle
+https://www.youtube.com/watch?v=GoSq-yZcJ-4
+https://supersimple.com/song/walking-in-the-jungle/
+
+One Little Finger
+https://www.youtube.com/watch?v=EqVHR2vIwIE
+https://supersimple.com/song/one-little-finger/
+
+ЩО Є АВТОРСЬКОЮ РОЗРОБКОЮ
+40-урочний розподіл, сюжети з Біпом, часові блоки, ігри,
+обмеження до 2 активних слів, питання перевірок, умовні пороги
+адаптації, домашні мікроігри та інструкції до слайдів.
+Протокол руханки — наша адаптація для онлайн-заняття, не твердження
+про тривалість або повний сценарій оригінального відео.
+Авторські фонічні ряди і слова для злиття позначені в конспектах;
+це не переписаний Teacher’s Book і не ключі до непочутого аудіо.
+
+ЩО ЗАЛИШАЄТЬСЯ ПЕРЕВІРИТИ ВЧИТЕЛЕВІ
+Реальне відтворення відео/аудіо, відповідність готових слайдів,
+зручність матеріалу конкретній дитині та поточний рівень підтримки.
